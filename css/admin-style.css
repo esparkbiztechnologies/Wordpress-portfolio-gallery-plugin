@@ -1,0 +1,6 @@
+.esb-pg-form-table td {
+    vertical-align: top;
+}
+.esb-pg-form-table td:first-child {
+    width: 20%;
+}

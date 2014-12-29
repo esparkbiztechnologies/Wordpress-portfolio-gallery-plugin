@@ -1,0 +1,25 @@
+.esb-pg-display-none {
+    display: none;
+}
+.clear {
+    clear: both;
+}
+.esb-pg-videophoto-box-wrap { 
+    border:5px solid #E53E25;
+    display: inline-block;
+    margin: 11px;
+    width: 150px;
+    
+    box-shadow: 5px 5px 0 1px rgba(64,199,244,1);
+    -moz-box-shadow: 5px 5px 0 1px rgba(64,199,244,1);
+    -webkit-box-shadow: 5px 5px 0 1px rgba(64,199,244,1);
+}
+.esb-pg-videophoto-box-wrap img.esb-img {
+    height: 125px;
+}
+.esb-pg-videophoto-box-widget {
+    width: 75px;
+}
+.esb-pg-videophoto-box-widget img {
+    height: 60px;
+}
